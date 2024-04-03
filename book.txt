@@ -1,0 +1,23 @@
+# add book
+{
+    "title": "wigni",
+    "author": "aylioza",
+    
+    "username": "iuzera",
+    "password": "chemiparoli"
+}
+
+# change book
+{
+    "title": "wigni",
+    "author": "aylioza",
+    
+    "username": "iuzera",
+    "password": "chemiparoli"
+}
+
+# delete book  /books/<id>
+{   
+    "username": "iuzera",
+    "password": "chemiparoli"
+}

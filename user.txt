@@ -1,0 +1,32 @@
+
+# login
+{
+    "username": "david",
+    "password": "gela"
+}
+
+
+# register user by admin
+{
+    "username": "david",
+    "password": "gela",
+    "user": {
+        "username": "gio",
+        "password": "gio123"
+    }
+}
+
+# change user himself
+{
+    "username": "david",
+    "password": "gela",
+
+    "user": {
+        "username": "gio",
+        "password": "gio123"
+    }
+}
+
+
+
+
