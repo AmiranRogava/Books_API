@@ -27,7 +27,7 @@ This is a Flask RESTful API project for managing books and users.
 ## API Endpoints
 
 ### Authentication
-
+# NOTE: ! you should remove @admin_check in order to create super admin and then put it back to use that admin
 - **POST /auth**: Register a new user (Admin only).
     - Requires username, password, and role in the request body.
     - Only admin users can register new users.
